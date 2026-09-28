@@ -1,4 +1,4 @@
-package P1844;
+package programmers.P1844;
 // DFS, 테스트 케이스는 통과했지만, 효율성 테스트에서 실패함 (시간 초과)
 
 public class Main {

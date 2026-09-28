@@ -212,7 +212,7 @@ public class Main {
 ### 최종 코드
 
 ```java
-package P42587;
+package programmers.P42587;
 
 import java.util.Arrays;
 import java.util.Collections;

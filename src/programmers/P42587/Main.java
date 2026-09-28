@@ -1,4 +1,4 @@
-package P42587;
+package programmers.P42587;
 
 import java.util.Arrays;
 import java.util.Collections;

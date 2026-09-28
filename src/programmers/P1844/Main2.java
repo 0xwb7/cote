@@ -1,4 +1,4 @@
-package P1844;
+package programmers.P1844;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

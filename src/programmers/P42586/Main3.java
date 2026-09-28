@@ -1,4 +1,4 @@
-package P42586;
+package programmers.P42586;
 
 import java.util.ArrayList;
 
