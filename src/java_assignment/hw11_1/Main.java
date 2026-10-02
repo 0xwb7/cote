@@ -36,7 +36,7 @@ public class Main {
     }
 
     public static String getGrade(int score, int max) {
-        if (max - score < 10) {
+        if (max - score <= 10) {
             return "A";
         } else if (max - score <= 20) {
             return "B";
