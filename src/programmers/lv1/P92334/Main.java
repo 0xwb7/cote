@@ -33,8 +33,6 @@ public class Main {
         HashMap<String, Integer> map = new HashMap<>();
         HashSet<String> r = new HashSet<>(Arrays.asList(report));
 
-        HashMap<String, List<String>> listMap = new HashMap<>();
-
         for (String s : r) {
             String[] arr = s.split(" ");
 
