@@ -30,3 +30,4 @@ bin/
 
 *.jar
 !src/java_assignment/hw12_1/StreamFilter.jar
+!src/java_assignment/hw12_2/StreamCollectors.jar
